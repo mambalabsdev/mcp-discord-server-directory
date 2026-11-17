@@ -1,0 +1,35 @@
+{
+  "name": "mcp-discord-server-directory",
+  "displayName": "Discord Server Directory",
+  "version": "1.0.0",
+  "description": "MCP server for Discord Server Directory: public Discord servers by keyword or category with member counts.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-discord-server-directory",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "discord",
+    "discord-servers",
+    "community",
+    "directory",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "discord",
+    "discord-servers",
+    "community",
+    "directory",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}

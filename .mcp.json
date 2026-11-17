@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-discord-server-directory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-discord-server-directory"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
