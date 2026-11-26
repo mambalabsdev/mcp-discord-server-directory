@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-discord-server-directory",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Discord Server Directory: public Discord servers by keyword or category with member counts.",
   "type": "module",
   "bin": {
