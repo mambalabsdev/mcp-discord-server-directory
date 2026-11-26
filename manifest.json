@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-discord-server-directory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Discord Server Directory: public Discord servers by keyword or category with member counts.",
   "author": {
     "name": "Mamba Labs"
